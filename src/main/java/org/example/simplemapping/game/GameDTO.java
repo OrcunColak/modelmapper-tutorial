@@ -1,4 +1,4 @@
-package org.example.simplemapping;
+package org.example.simplemapping.game;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package org.example.simplemapping;
+package org.example.simplemapping.game;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
